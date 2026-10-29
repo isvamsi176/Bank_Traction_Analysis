@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+finsight.db
+.env
+instance/
+.DS_Store
